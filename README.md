@@ -9,7 +9,7 @@ This repository is an up-to-date table of the versions of various software that 
 |2.0|✓|✓|✓|✗|✗|✗|✗|
 |2.1|✗|✓|✓<sup>[1]</sup>|2.1.16+|✗|✗|✗|
 |2.2|✗|✗|✓<sup>[2]</sup>|✓|2.2.10+|✗|✗|✗|
-|2.3|✗|✗|✗|✓<sup>[3]</sup>|✓|2.3.3+|✗|
+|2.3|✗|✗|✗|✓<sup>[3]</sup>|✓|2.3.3+|2.3.7+|
 |2.4<sup>[4]</sup>|✗|✗|✗|✗|✗|✓|✓|
 
 Notes:
