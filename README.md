@@ -33,9 +33,19 @@ Notes:
 4. 2.2.0-2.2.7 declare support for ES 1.7
 5. 2.4.0 only declares support for 7.6.x
 
-# Databases
+## RabbitMQ
 
-## MySQL
+| Magento Minor Version | 3.5 | 3.7 | 3.8 |
+|:---|---|---|---|
+|2.0|✓|✗|✗|
+|2.1|✓|✗|✗|
+|2.2|✓|✓|✗|
+|2.3|✗|✓|✓|
+|2.4|✗|✗|✓|
+
+## Databases
+
+### MySQL
 
 | Magento Minor Version | 5.6 | 5.7 | 8.0 |
 |:---|---|---|---|
@@ -49,7 +59,7 @@ Notes:
 1. Magento is also compatible with, but has not been tested and is not recommended
 2. Magento version 2.1.2 and later are compatible with
 
-## MariaDB
+### MariaDB
 
 | Magento Minor Version | 10.0 | 10.1 | 10.2 | 10.3 | 10.4 | 10.5 |
 |:---|---|---|---|---|---|---|
