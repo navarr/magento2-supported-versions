@@ -50,11 +50,13 @@ Notes:
 |2.0|✓|✓|✗|✗|
 |2.1|✓|✓|✗|✗|
 |2.2|✗|✓|✓|✗|
-|2.3|✗|✓|5.2+|6.2+|
-|2.4|✗|✗|✗|✓<sup>1</sup>|
+|2.3|✗|✓|✓<sup>1</sup>|✓<sup>2</sup>|
+|2.4|✗|✗|✗|✓<sup>3</sup>|
 
 Notes:
-1. Tested with 6.3.1
+1. Magento declares support for 5.2+
+2. Magento declares support for 6.2+
+3. Tested with 6.3.1
 
 ## Databases
 
