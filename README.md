@@ -32,3 +32,13 @@ Notes:
 3. Version 2.1.1 is the only version in the 2.1.x line to declare support for ES 5, and then only for 5.0
 4. 2.2.0-2.2.7 declare support for ES 1.7
 5. 2.4.0 only declares support for 7.6.x
+
+## RabbitMQ
+
+| Magento Minor Version | 3.5 | 3.7 | 3.8 |
+|:---|---|---|---|
+|2.0|✓|✗|✗|
+|2.1|✓|✗|✗|
+|2.2|✓|✓|✗|
+|2.3|✗|✓|✓|
+|2.4|✗|✗|✓|
