@@ -42,3 +42,34 @@ Notes:
 |2.2|✓|✓|✗|
 |2.3|✗|✓|✓|
 |2.4|✗|✗|✓|
+
+## Databases
+
+### MySQL
+
+| Magento Minor Version | 5.6 | 5.7 | 8.0 |
+|:---|---|---|---|
+|2.0|✓|✗|✗|
+|2.1|✓|✓<sup>2</sup>|✗|
+|2.2|✓|✓|✗|
+|2.3|✓<sup>1</sup>|✓|✗|
+|2.4|✗|✓<sup>1</sup>|✓|
+
+Notes:
+1. Magento is also compatible with, but has not been tested and is not recommended
+2. Magento version 2.1.2 and later are compatible with
+
+### MariaDB
+
+| Magento Minor Version | 10.0 | 10.1 | 10.2 | 10.3 | 10.4 | 10.5 |
+|:---|---|---|---|---|---|---|
+|2.0|✓|✓|✗|✗|✗|✗|
+|2.1|✓|✓|✓<sup>1</sup>|✗|✗|✗|
+|2.2|✓|✓|✓<sup>2</sup>|✓<sup>2</sup>|✓<sup>2</sup>|✗|
+|2.3|✓<sup>2</sup>|✓<sup>2</sup>|✓<sup>2</sup>|✓<sup>2</sup>|✓<sup>2</sup>|✗|
+|2.4|✗|✗|✓<sup>3</sup>|✓<sup>3</sup>|✓<sup>3</sup>|✓|
+
+Notes:
+1. Magento version 2.1.2 and later are compatible with.
+2. Magento only uses MySQL features compatible with MariaDB. MariaDB may not be compatible with all MySQL features, however, so be sure to research compatibility issues before using a feature in your Magento module.
+3. Magento is also compatible, but has not been tested and is not recommended
