@@ -2,6 +2,14 @@
 
 This repository is an up-to-date table of the versions of various software that various versions of Magento support.
 
+## Magento Lifecycle
+
+| Magento Minor Version | Release Date | End of Quality Fixes | End of Security Fixes/End of Software Support |
+|:---|---|---|---|
+|2.2|September 2017|December 2019|December 2019|
+|2.3|November 2018|July 2021|April 2022|
+|2.4|July 2020|||
+
 ## PHP
 
 | Magento Minor Version | PHP 5.5 | PHP 5.6 | PHP 7.0 | PHP 7.1 | PHP 7.2 | PHP 7.3 | PHP 7.4 |
