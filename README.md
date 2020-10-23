@@ -1,6 +1,9 @@
 # Magento EOL
 
-| Magento Minor Version | Release Date | End of Quality Fixes | End of Security Fixes/End of Software Support |
+EOQ: End of Quality Fixes.  
+EOL: End of Security Fixes/End of Software Support
+
+| Magento Minor Version | Release | <attr title="End of Quality Fixes">EOQ</attr> | <attr title="End of Security Fixes/End of Software Support">EOL</attr> |
 |:---|---|---|---|
 |2.0|November 2015|**March 2018**|**March 2018**|
 |2.1|June 2016|**June 2019**|**June 2019**|
