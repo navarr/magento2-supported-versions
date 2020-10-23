@@ -1,14 +1,14 @@
-# Magento 2 Supported Versions
-
-This repository is an up-to-date table of the versions of various software that various versions of Magento support.
-
-## Magento Lifecycle
+# Magento EOL
 
 | Magento Minor Version | Release Date | End of Quality Fixes | End of Security Fixes/End of Software Support |
 |:---|---|---|---|
-|2.2|September 2017|December 2019|December 2019|
+|2.0|November 2015|**March 2018**|**March 2018**|
+|2.1|June 2016|**June 2019**|**June 2019**|
+|2.2|September 2017|**December 2019**|**December 2019**|
 |2.3|November 2018|July 2021|April 2022|
 |2.4|July 2020|||
+
+# Supported Software
 
 ## PHP
 
