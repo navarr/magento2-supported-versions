@@ -11,6 +11,9 @@ EOL: End of Security Fixes/End of Software Support
 |2.3|November 2018|July 2021|April 2022|
 |2.4|July 2020|||
 
+Notes:
+1. Information taken regularly from the [Magento Software Lifecycle Policy document](https://magento.com/sites/default/files/magento-software-lifecycle-policy.pdf)
+
 # Supported Software
 
 ## PHP
