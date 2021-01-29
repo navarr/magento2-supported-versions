@@ -80,7 +80,7 @@ Notes:
 Notes:
 1. Magento declares support for 5.2+
 2. Magento declares support for 6.2+
-3. Tested with 6.3.1.  Magento 2 tested with 6.4
+3. Tested with 6.3.1.  Magento 2.4.2 tested with 6.4
 
 ## Databases
 
