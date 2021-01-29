@@ -31,6 +31,15 @@ Notes:
 2. 7.0.2, 7.0.4, and ~7.0.6 for 2.2.0-2.2.4.  Starting with 2.2.5 7.0 support was limited to ~7.0.13
 3. Supports ~7.1.3
 
+## Composer
+| Magento Minor Version | 1 | 2
+|:---|---|---|
+|2.0|✓|✗|
+|2.1|✓|✗|
+|2.2|✓|✗|
+|2.3|✓|✗|
+|2.4|✓|2.4.2+|
+
 ## Elasticsearch
 
 | Magento Minor Version | ES 1.x | ES 2.x | ES 5.x | ES 6.x | ES 7.x
@@ -38,7 +47,7 @@ Notes:
 |2.1|✓<sup>1</sup>|✓<sup>2</sup>|2.1.1<sup>3</sup>|✗|✗|
 |2.2|Until 2.2.8<sup>4</sup>|✓|2.2.8+|2.2.8+|✗
 |2.3|✗|Until 2.3.5|Until 2.3.5|✓|2.3.5+
-|2.4|✗|✗|✗|✗|✓<sup>5</sup>
+|2.4|✗|✗|✗|✗|✓<sup>5</sup><sup>6</sup>
 
 Notes:
 1. Versions 2.1.1-2.1.2 declare support for all 1.x, but all other 2.1.x versions only declare support for 1.7
@@ -46,6 +55,7 @@ Notes:
 3. Version 2.1.1 is the only version in the 2.1.x line to declare support for ES 5, and then only for 5.0
 4. 2.2.0-2.2.7 declare support for ES 1.7
 5. 2.4.0 only declares support for 7.6.x
+6. 2.4.3 declares support for 7.4.x and 7.9.x
 
 ## RabbitMQ
 
@@ -70,7 +80,7 @@ Notes:
 Notes:
 1. Magento declares support for 5.2+
 2. Magento declares support for 6.2+
-3. Tested with 6.3.1
+3. Tested with 6.3.1.  Magento 2 tested with 6.4
 
 ## Databases
 
