@@ -23,7 +23,7 @@ Notes:
 |2.0|✓|✓|✓|✗|✗|✗|✗|✗|
 |2.1|✗|✓|✓<sup>[1]</sup>|2.1.16+|✗|✗|✗|✗|
 |2.2|✗|✗|✓<sup>[2]</sup>|✓|2.2.10+|✗|✗|✗|✗|
-|2.3|✗|✗|✗|✓<sup>[3]</sup>|Until 2.3.6-p1|2.3.3+|2.3.7+|✗|
+|2.3|✗|✗|✗|✓<sup>[3]</sup>|Until 2.3.6-p1|2.3.3 - 2.3.6|2.3.7+|✗|
 |2.4|✗|✗|✗|✗|✗|✓|✓|✗|
 
 Notes:
@@ -37,17 +37,17 @@ Notes:
 |2.0|✓|✗|
 |2.1|✓|✗|
 |2.2|✓|✗|
-|2.3|✓|✗|
+|2.3|✓|2.3.7+|
 |2.4|✓|2.4.2+|
 
 ## Elasticsearch
 
-| Magento Minor Version | ES 1.x | ES 2.x | ES 5.x | ES 6.x | ES 7.x
+| Magento Minor Version | ES 1.x | ES 2.x | ES 5.x | ES 6.x | ES 7.4.x | ES 7.9.x
 |:---|---|---|---|---|---|
-|2.1|✓<sup>1</sup>|✓<sup>2</sup>|2.1.1<sup>3</sup>|✗|✗|
-|2.2|Until 2.2.8<sup>4</sup>|✓|2.2.8+|2.2.8+|✗
-|2.3|✗|Until 2.3.5|Until 2.3.5|✓|2.3.5+
-|2.4|✗|✗|✗|✗|✓<sup>5</sup><sup>6</sup>
+|2.1|✓<sup>1</sup>|✓<sup>2</sup>|2.1.1<sup>3</sup>|✗|✗|✗
+|2.2|Until 2.2.8<sup>4</sup>|✓|2.2.8+|2.2.8+|✗|✗
+|2.3|✗|Until 2.3.5|Until 2.3.5|✓|2.3.5+|2.3.7+
+|2.4|✗|✗|✗|✗|✓|✓
 
 Notes:
 1. Versions 2.1.1-2.1.2 declare support for all 1.x, but all other 2.1.x versions only declare support for 1.7
@@ -74,7 +74,7 @@ Notes:
 |2.0|✗|✓|✗|✗|✗|✗|
 |2.1|✓|✓|✓|2.1.17+|2.1.17+|✗|
 |2.2|✓|✓|✓|✗|✗|✗|
-|2.3|Until 2.3.6|Until 2.3.6|Until 2.3.6|2.3.1 - 2.3.5|2.3.1+|✗|
+|2.3|Until 2.3.6|Until 2.3.6|Until 2.3.6|2.3.1 - 2.3.5|2.3.1+|2.3.7+|
 |2.4|✗|✗|✗|✗|✓|2.4.2+|
 
 ## Varnish
@@ -89,7 +89,7 @@ Notes:
 
 Notes:
 1. Magento declares support for 5.2+
-2. Magento declares support for 6.2+
+2. Magento declares support for 6.2+, 6.5.1 explicitly supported with 2.3.7
 3. Tested with 6.3.1.  Magento 2.4.2 tested with 6.4
 
 ## Databases
