@@ -6,9 +6,9 @@ EOL: End of Security Fixes/End of Software Support
 | Magento Minor Version | Release | <attr title="End of Quality Fixes">EOQ</attr> | <attr title="End of Security Fixes/End of Software Support">EOL</attr> |
 |:---|---|---|---|
 |2.0|November 2015|**March 2018**|**March 2018**|
-|2.1|June 2016|**June 2019**|**June 2019**|
+|2.1|June 2016|**June 2019**|**July 1, 2019**|
 |2.2|September 2017|**December 2019**|**December 2019**|
-|2.3|November 2018|July 2021|April 2022|
+|2.3|November 2018|July 2021|April 28, 2022|
 |2.4|July 2020|||
 
 Notes:
