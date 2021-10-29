@@ -24,13 +24,14 @@ Notes:
 |2.1|✗|✓|✓<sup>[1]</sup>|2.1.16+|✗|✗|✗|✗|✗|
 |2.2|✗|✗|✓<sup>[2]</sup>|✓|2.2.10+|✗|✗|✗|✗|✗|
 |2.3|✗|✗|✗|✓<sup>[3]</sup>|Until 2.3.6-p1|2.3.3 - 2.3.6<sup>[4]</sup>|2.3.7+|✗|✗|
-|2.4|✗|✗|✗|✗|✗|Until 2.4.1<sup>[4]</sup>|Until 2.4.5|✗|2.4.5+|
+|2.4|✗|✗|✗|✗|✗|Until 2.4.1<sup>[4]</sup>|Until 2.4.5<sup>5</sup>|✗<sup>5</sup>|2.4.4+|
 
 Notes:
 1. Only 7.0.2 and ~7.0.6 for 2.1.0-2.1.1.  Starting with 2.1.2 that was expanded to include 7.0.4.
 2. 7.0.2, 7.0.4, and ~7.0.6 for 2.2.0-2.2.4.  Starting with 2.2.5 7.0 support was limited to ~7.0.13
 3. Supports ~7.1.3
 4. The composer.json in 2.3.7, 2.4.1, and 2.4.2 appears to support 7.3, however the [System Requirements](https://devdocs.magento.com/guides/v2.3/install-gde/system-requirements.html) does not list it as a supported version. This likely means it can work, but you'll be on your own.
+5. Adobe has announced they're removing 7.3 in 2.4.4.  This likely means that 2.4.4 will be semi-compatible with 7.4 and 8.0, though it is targeting 8.1.
 
 ## Composer
 | Magento Minor Version | 1 | 2
