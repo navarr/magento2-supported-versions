@@ -61,6 +61,12 @@ Notes:
 5. 2.4.0 specifically declares support for ES 7.6.x
 6. 2.4.2 states "Magento 2.4.x remains compatible with Elasticsearch 7.4.x" despite compatibility not being declared at any point
 
+## Opensearch
+
+| Magento Minor Version | OS 1.x
+|:---|---|
+|2.4|2.4.4+|
+
 ## RabbitMQ
 
 | Magento Minor Version | 3.5 | 3.7 | 3.8 |
